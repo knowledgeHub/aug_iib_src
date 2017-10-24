@@ -32,3 +32,40 @@ Command-line arguments:  -data C:\Users\Administrator\Documents\aug_iib_src -os 
 
 !ENTRY org.eclipse.ui 4 4 2017-10-23 19:41:51.355
 !MESSAGE Invalid preference page path: Websphere Application Server
+!SESSION 2017-10-23 20:52:48.033 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 x86-32 20120809_118929 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR2_20120809_0948_B118929
+JIT  - r11.b01_20120808_24925
+GC   - R26_Java726_SR2_20120809_0948_B118929
+J9CL - 20120809_118929
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide
+Command-line arguments:  -data C:\Users\fednu\OneDrive\Documents\GitHub\aug_iib_src -os win32 -ws win32 -arch x86 -showlocation -product com.ibm.etools.msgbroker.tooling.ide
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-10-23 20:52:50.429
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2017-10-23 20:52:52.860
+!MESSAGE Project facet jst.jsf has not been defined. It is used in plugin com.ibm.etools.javaee.cdi.core.
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-23 20:52:55.052
+!MESSAGE NLS unused message: PD_HELP_POPUP_RELATED_HELP_SECTION_TITLE in: com.ibm.etools.mft.flow.msgFlowStrings
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-23 20:52:55.060
+!MESSAGE NLS unused message: PROPERTY_LEVEL_HELP_POPUP_OPEN_DYNAMIC_HELP_LINK_TEXT in: com.ibm.etools.mft.flow.msgFlowStrings
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-23 20:52:55.067
+!MESSAGE NLS unused message: PD_HELP_POPUP_DECORATOR_HOVER_HELP in: com.ibm.etools.mft.flow.msgFlowStrings
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-23 20:52:55.076
+!MESSAGE NLS unused message: PROPERTY_LEVEL_HELP_POPUP_MORE_INFO_LINK in: com.ibm.etools.mft.flow.msgFlowStrings
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-23 20:52:55.088
+!MESSAGE NLS unused message: PROPERTY_LEVEL_HELP_POPUP_SECTION_HOVER_HELP in: com.ibm.etools.mft.flow.msgFlowStrings
+
+!ENTRY org.eclipse.ui 4 4 2017-10-23 20:52:57.256
+!MESSAGE Invalid preference page path: Websphere Application Server
+
+!ENTRY org.eclipse.osgi 2 1 2017-10-23 20:53:54.303
+!MESSAGE NLS missing message: ApplicationLibraryProjectReferenceWizardPage_directoryLabel in: com.ibm.etools.mft.util.ui.messages
